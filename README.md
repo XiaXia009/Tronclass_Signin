@@ -5,7 +5,6 @@
 
 ## 或許你想看看怎麼樣
 ### 可以使用的指令
-### 在機器人登入帳號
 ```
 /set_channel 設定頻道
 /ulearn_login 登入自己的帳號
@@ -19,6 +18,7 @@
 /修復 執行此指令有機會修復登入失敗
 /下節甚麼課 
 ```
+### 在機器人登入帳號
 ![login](https://github.com/XiaXia009/Tronclass_Signin/blob/main/login.png)
 ### 使用機器人點名
 ![roll_all](https://github.com/XiaXia009/Tronclass_Signin/blob/main/roll%20call.png)
